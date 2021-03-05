@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://stc.dudy.dev/blog</id>
+    <title>stc Blog</title>
+    <updated>2021-03-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://stc.dudy.dev/blog"/>
+    <subtitle>stc Blog</subtitle>
+    <icon>https://stc.dudy.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Roadmap]]></title>
+        <id>roadmap</id>
+        <link href="https://stc.dudy.dev/blog/roadmap"/>
+        <updated>2021-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roadmap]]></summary>
+    </entry>
+</feed>
